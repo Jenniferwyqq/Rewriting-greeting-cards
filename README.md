@@ -1,5 +1,6 @@
+# CPSC535 Advanced Algorithm Group Project
+
 Rewriting greeting cards
-# CPSC535-SP21-Project1
 
 description:
 People appreciate small gestures like receiving a greeting card on special occasions, even if it is delivered
@@ -14,5 +15,5 @@ occurrence of the first string in each pair with the corresponding second string
 matching must be case sensitive.
 
 Group members:
-Jenni Wu  chihyi1126@csu.fullerton.edu
+Jenni Wu
 Pearl Law 
